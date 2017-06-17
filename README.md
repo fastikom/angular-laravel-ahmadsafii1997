@@ -1,6 +1,6 @@
-## Contribute | Ahmad Safi'i [2014150135]
+## Contribute | Ahmad Safi'i [2014150135] & Ahmat Zain Mufangirin [2014150142]
 
-See our profile (https://github.com/ahmadsafii1997)
+See our profile Ahmad Safi'i (https://github.com/ahmadsafii1997) | Ahmat Zain Mufangirin (https://github.com/AhmadZain111)
 
 ## How To Install
     1. Buat Database sesuai yang diharapkan, lalu edit file .env
